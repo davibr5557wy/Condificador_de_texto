@@ -1,0 +1,1 @@
+# Condificador_de_texto
