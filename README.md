@@ -62,4 +62,4 @@ e para escrever mais comandos é so escrever uma virgula:
 {
 csl <"dic":"dicionario2.json","lpl":10>
 ola
-}
+} 
